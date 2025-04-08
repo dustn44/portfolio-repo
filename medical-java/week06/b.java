@@ -17,8 +17,8 @@ public class b {
     if (gil>hi&&gil>ki)
       System.out.print("가장 높은 점수를 획득한 학생은 길동이입니다.");
     else if (hi>gil&&hi>ki)
-        System.out.print("가장 높은 점수를 획득한 학생은 희동이입니다.");
-      else
+      System.out.print("가장 높은 점수를 획득한 학생은 희동이입니다.");
+    else
       System.out.print("가장 높은 점수를 획득한 학생은 기동이입니다.");
    }
 }
