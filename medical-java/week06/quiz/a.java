@@ -1,3 +1,5 @@
+// 2025-04-08 문제 1번
+// 영어, 국어, 수학 점수를 입력 받아 총점과 평균을 출력하는 프로그램을 구현
 package week_6;
 
 import java.util.Scanner;
