@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>CSS</title>
+        <style>
+            body {
+                margin: 0px;
+                height: 400px;
+            }
+            .box {width: 100px; height: 100px;}
+            .red {background-color: red;}
+            .green {
+                background-color: green;
+                position: fixed;
+                top: 0px;
+            }
+            .blue {background-color: blue;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="box red"></div>
+        <div class="box green"></div>
+        <div class="box blue"></div>
+    </body>
+</html>
