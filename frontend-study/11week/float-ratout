@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>CSS</title>
+        <style>
+            div { 
+                color: white;
+                width: 80px;
+            }
+            .red-box { 
+                background-color: red;
+                float: left;
+            }
+            .blue-box { background-color: blue;
+                float: left;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="red-box">red-box</div>
+        <div class="blue-box">blue-box</div>
+    </body>
+</html>
