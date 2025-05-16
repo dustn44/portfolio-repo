@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>CSS</title>
+        <style>
+            .container {
+                width: 400px; padding: 1rem; margin: 0 auto;
+                border: 3px solid red;
+                background-color: yellow;
+            }
+            .box { width: 100px; height: 100px;
+                    float: left;}
+            .red-box {background-color: red;}
+            .blue-box { background-color: blue;}
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <div class="box red-box"></div>
+            <div class="box blue-box"></div>
+        </div>
+    </body>
+</html>
