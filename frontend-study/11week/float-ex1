@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>CSS</title>
+        <style>
+            div {width: 100px; height: 100px;}
+            .red-box {
+                background-color: red;
+                float: left;
+            }
+            .green-box { 
+                background-color: green;
+                float: right;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="red-box">red-box</div>
+        <div class="green-box">green-box</div>
+    </body>
+</html>
+
